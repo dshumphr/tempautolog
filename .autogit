@@ -1,0 +1,8 @@
+{
+  "remote": "git@github.com:dshumphr/tempgitspot2.git",
+  "branch": "main",
+  "idle_minutes": 0.5,
+  "max_interval_minutes": 2.0,
+  "poll_seconds": 5,
+  "agent_cmd": "crush run --small_model \"{prompt}\""
+}
