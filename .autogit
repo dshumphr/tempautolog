@@ -1,5 +1,5 @@
 {
-  "remote": "git@github.com:dshumphr/tempgitspot2.git",
+  "remote": "git@github.com:dshumphr/tempautolog.git",
   "branch": "main",
   "idle_minutes": 0.5,
   "max_interval_minutes": 2.0,
